@@ -1,4 +1,8 @@
-### Hi there 👋
+## Deekshith Allamaneni
+
+Software Engineer and maker. I mostly work on BigData and Mobile/Android related projects.
+
+Meet me on: [Linkedin](https://www.linkedin.com/in/adeekshith) | [Mastodon](https://mastodon.technology/@dsoft) | [Twitter](https://twitter.com/adeekshith)
 
 <!--
 **adeekshith/adeekshith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
