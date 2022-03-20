@@ -16,15 +16,20 @@
     body {
         text-align: center;
     }
+
+    .profile-picture {  
+        max-width: 128px;  
+        height: auto;  
+    }
   </style>
 </head>
 
 <body>
   <header>
     <picture>
-        <source srcset="/media/dk-profile-thumb-circle-96px.png 3x"
+        <source srcset="./media/dk-profile-thumb-circle-96px.png"
         media="(min-width: 800px)">
-        <img src="/media/dk-profile-thumb-circle-96px.png" alt="Deekshith Allamaneni" />
+        <img class="profile-picture" src="./media/dk-profile-thumb-circle-96px.png" alt="Deekshith Allamaneni" />
     </picture>
     <h2>Deekshith Allamaneni</h2>
     <p>
@@ -48,4 +53,3 @@
 
 </body>
 </html>
-
