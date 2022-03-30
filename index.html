@@ -32,8 +32,9 @@
     }
 
     .profile-picture {  
-        max-width: 128px;  
-        height: auto;  
+        max-width: 128px;
+        height: auto;
+        border-radius: 50%;
     }
   </style>
 
@@ -45,9 +46,12 @@
 <body>
   <header>
     <picture>
-        <source srcset="./media/dk-profile-thumb-circle-96px.png"
+        <source srcset="./media/dk-headshot-484px.jpg"
         media="(min-width: 800px)">
-        <img class="profile-picture" src="./media/dk-profile-thumb-circle-96px.png" alt="Deekshith Allamaneni" />
+        <img class="profile-picture"
+          src="./media/dk-headshot-484px.jpg"
+          alt="Deekshith Allamaneni"
+          loading="lazy" />
     </picture>
     <h2>Deekshith Allamaneni</h2>
     <p>
