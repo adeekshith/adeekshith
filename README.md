@@ -2,7 +2,7 @@
 
 Software Engineer and maker. I mostly work on BigData and Mobile/Android related projects.
 
-[Linkedin](https://www.linkedin.com/in/adeekshith) | [Mastodon](https://mastodon.technology/@dsoft) | [Twitter](https://twitter.com/adeekshith)
+### 🔗 My social profiles and contact info: [**meet.deekshith.in**](https://meet.deekshith.in/)
 
 <!--
 **adeekshith/adeekshith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
