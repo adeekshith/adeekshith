@@ -6,4 +6,5 @@ Hi 👋, I'm a Software Engineer specializing in Big Data and Mobile/Android dev
 ## 📫 How to Reach Me
 - Social profiles and contact info: [**meet.deekshith.in**](https://meet.deekshith.in/)
 
-![Deekshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=adeekshith&show_icons=true&theme=radical)  <!-- GitHub stats graph -->
+## 📊 Stats
+![Deekshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=adeekshith&show_icons=true&theme=tokyonight&hide=contribs)  <!-- GitHub stats graph -->
