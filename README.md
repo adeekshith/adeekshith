@@ -1,20 +1,10 @@
-## Deekshith Allamaneni
 
-Software Engineer and maker. I mostly work on BigData and Mobile/Android related projects.
+# Deekshith Allamaneni
 
-### 🔗 My social profiles and contact info: [**meet.deekshith.in**](https://meet.deekshith.in/)
+Hi 👋, I'm a Software Engineer specializing in Big Data and Mobile/Android development. I enjoy building everything from business solutions to hobby projects. I'm passionate about creating apps that enhance productivity and solving challenging problems with data.
 
-<!--
-**adeekshith/adeekshith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 How to Reach Me
+- Social profiles and contact info: [**meet.deekshith.in**](https://meet.deekshith.in/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Stats
+![Deekshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=adeekshith&show_icons=true&theme=tokyonight&hide=contribs)  <!-- GitHub stats graph -->
