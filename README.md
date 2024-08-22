@@ -1,6 +1,6 @@
 # Deekshith Allamaneni
 
-Hello 👋, I'm Deekshith! I specialize in **Big Data** and **Mobile/Android development**. I thrive on building diverse solutions ranging from enterprise-grade business applications to intriguing hobby projects. My passion lies in enhancing user productivity through innovative applications and tackling complex data-driven challenges.
+Hello 👋, I'm Deekshith! I specialize in **Big Data**, "Systems Engineering" and **Application development**. I thrive on building diverse solutions ranging from enterprise-grade business applications to intriguing hobby projects. My passion lies in enhancing user productivity through innovative applications and tackling complex data-driven challenges.
 
 ## 🔍 Explore My Work
 - **Curriculum Vitae:** Explore my professional journey and project experiences in detail at [**cv.deekshith.in**](https://cv.deekshith.in)
